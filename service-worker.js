@@ -2,7 +2,7 @@
 const CACHE_NAME = 'hello-world-cache-v1';
 const urlsToCache = [
     '/',
-    '/index.php',
+    '/index.html',
     '/style/style.css',
     '192x192.png',
     '512x512.png'
